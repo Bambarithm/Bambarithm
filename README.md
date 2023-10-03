@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bambarithm
-- 👀 I’m interested in Data Analysis, Software Engineering, AI/ML and Web Development
-- 🌱 I’m a Bachelor of Science in Computer Science Graduate and I'm currently learning Data Analysis and Machine Learning
+- 👀 I’m interested in Data Analytics, Software Engineering, AI/ML and Web Development
+- 🌱 I’m a Bachelor of Science in Computer Science Graduate and I'm currently learning Data Analytics and Machine Learning
 - 💞️ I’m looking to collaborate on any interesting project related to the fields mentionned above
 - 📫 How to reach me: mkhadim33@gmail.com 
 
